@@ -13,7 +13,7 @@
 #target photoshop
 
 $.localize = true
-$.locale = "ru"
+//$.locale = "ru"
 
 //bin here
 XMLSettingsName="Batch for layers"
